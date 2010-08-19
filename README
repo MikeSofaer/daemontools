@@ -1,0 +1,7 @@
+daemontools was copyrighted by djb in 2001, and released public domain:
+
+2007.12.28: I hereby place the daemontools package (in particular, daemontools-0.76.tar.gz, with MD5 checksum 1871af2453d6e464034968a0fbcb2bfc) into the public domain. The package is no longer copyrighted.
+
+To install:
+clone this repo
+./package/install from inside this directory
